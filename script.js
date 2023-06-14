@@ -11,4 +11,5 @@ function threeSum() {
 		}
 		deci = Math.floor(deci / 2);
 	}
+	document.getElementById("ans").innerHTML = "The binary value is " + binary;
 }
