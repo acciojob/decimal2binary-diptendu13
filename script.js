@@ -12,5 +12,3 @@ function threeSum() {
 		deci = Math.floor(deci / 2);
 	}
 }
-
-module.exports = threeSum;
